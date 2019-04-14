@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = ""
 languageCode = "en-us"
 title = "BendIt.io"
 themesDir = "themes"
