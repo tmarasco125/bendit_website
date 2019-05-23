@@ -24,7 +24,7 @@ pygmentsUseClasses = true
   homepage_button_text = 'Read The User Guide'
   
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/wcb.jpg'
+  homepage_image = '/images/wcb_clean.jpg'
 
   
 
