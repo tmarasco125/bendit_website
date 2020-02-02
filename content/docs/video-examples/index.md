@@ -9,4 +9,4 @@ Here are some video examples of Bendit_I/O in action:
 ## gravity | density (2019)
 ### networked performance for cyber-hacked devices (CD players and guitar distortion pedal), computer, and audience interaction (mobile devices)
 
-{{< youtube _JekrACQF8o&t=1s >}}
+{{< youtube id="_JekrACQF8o&t=1s" >}}
