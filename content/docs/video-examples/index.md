@@ -10,3 +10,5 @@ Here are some video examples of Bendit_I/O in action:
 ### networked performance for cyber-hacked devices (CD players and guitar distortion pedal), computer, and audience interaction (mobile devices)
 
 {{< youtube id="_JekrACQF8o&t" >}}
+
+{{< youtube id="IrGgEWnhw5g" >}}
