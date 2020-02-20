@@ -2,6 +2,7 @@
 title: 'Bendit_I/O'
 date: 2018-11-28T15:14:39+10:00
 ---
+{{< figure src="/images/Bendit_logo.png">}}
 
 **Bendit_I/O** is a system that allows for wireless, networked performance of circuit-bent devices, giving artists a variety of new methods for performing with repurposed technology.
 
